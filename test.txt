@@ -1,0 +1,3 @@
+Big data is a buzzword nowadays, many companies use big data processing platforms to tackle big data problems. 
+Apache Spark has quite some advantages compared to others, and is rapidly becoming the compute engine of choice for big data. 
+This talk covers Apache Spark's architecture, programming model and how to write basic application with its commonly used APIs in Python. 
